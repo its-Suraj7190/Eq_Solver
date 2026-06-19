@@ -10,7 +10,6 @@ int main(void){
 
    printf(" Hi, EQ_Solver is here to assits you.\n");
 
-   Sleep(500);
    printf("\nDecide which equations to solve :\n1) Point - slope form: \n2) Double - intercept form:\n");
 
    int x1, y1, x2, y2, x_intercept, y_intercept;
