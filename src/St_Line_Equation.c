@@ -1,6 +1,7 @@
    #include"St_Line_Equation.h"
    #include"HCF.h"
    #include<stdio.h>
+   #include<string.h>
    
   void St_Line_Equation(int A, int B){
      if(A == 0 && B == 0){                        //  St. lines with no equation.
