@@ -1,5 +1,5 @@
 #include"HCF.h"
-#include"St_Line_Equation.h"
+#include"St_Line_Eq.h"
 #include <stdio.h>
 #include <stdlib.h>                // For abs()
 
@@ -45,6 +45,6 @@ int main(void){
 } while(!(user_choice < 3));
 
     a = y2 - y1, b = x2 - x1;
-   St_Line_Equation(a, b);
+   St_Line_Eq(a, b);
    return 0;
 } 
