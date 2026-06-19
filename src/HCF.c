@@ -1,5 +1,4 @@
 #include"HCF.h"
-#include<stdio.h>
 
 int HCF(int X, int Y){            
  // For calcluating the HCF of A aand B.
