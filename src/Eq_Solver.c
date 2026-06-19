@@ -1,6 +1,6 @@
 #include"HCF.h"
+#include"St_Line_Equation.h"
 #include <stdio.h>
-#include<string.h>                 // For concatinating all the eq.
 #include <stdlib.h>                // For abs()
 
 int main(void){
@@ -14,10 +14,9 @@ int main(void){
    printf("\nDecide which equations to solve :\n1) Point - slope form: \n2) Double - intercept form:\n");
 
    int x1, y1, x2, y2, x_intercept, y_intercept;
-   int A, B;
+   int a, b;
 
    do {
-   
       printf("\nEnter you choice: ");                        //  Ask for the user-choice input.. 
       scanf("%d",&user_choice);
 
@@ -45,9 +44,7 @@ int main(void){
     } 
 } while(!(user_choice < 3));
 
-    A = y2 - y1, B = x2 - x1;
-
-   St_Line_Equation(A, B);
-
+    a = y2 - y1, b = x2 - x1;
+   St_Line_Equation(a, b);
    return 0;
 } 
