@@ -1,4 +1,4 @@
-#include"functions.h"
+#include"HCF.h"
 #include<stdio.h>
 
 int HCF(int X, int Y){            
