@@ -17,7 +17,7 @@
         return 0;
     }
     else{                                   // Eq of inclined line ( A,B != 0 )
-         int HCF = Hcf(abs(A), abs(B));
+         int HCF = HCF(abs(A), abs(B));
          A/= HCF, B/= HCF;                 // A,B is deducted by HCF.
          int C = B*y1 - A*x1;              // Constant of the equation.
          
