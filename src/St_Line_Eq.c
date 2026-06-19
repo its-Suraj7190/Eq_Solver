@@ -1,6 +1,7 @@
    #include"St_Line_Eq.h"
    #include"HCF.h"
    #include<stdio.h>
+   #include<stdlib.h>
    #include<string.h>
    
   void St_Line_Equation(int A, int B){
