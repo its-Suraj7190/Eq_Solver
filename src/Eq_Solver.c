@@ -1,3 +1,4 @@
+#include"functions.h"
 #include <stdio.h>
 #include<string.h>                 // For concatinating all the eq.
 #include <stdlib.h>                // For abs()
@@ -87,4 +88,6 @@ int main(void){
     else  strcat(final_equation, "= 0");                                                                        // Concatinating within the old-string..
  }
     printf("%s", final_equation);               // The final Concatenated - String..
+
+   return 0;
 } 
