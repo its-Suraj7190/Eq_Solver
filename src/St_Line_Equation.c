@@ -1,9 +1,7 @@
-   #ifndef "ST_LINE_EQUATION"
-   #define "ST_LINE_EQUATION"
+   #include"St_Line_Equation.h"
    #include"HCF.h"
    #include<stdio.h>
    
-
   void St_Line_Equation(int A, int B){
      if(A == 0 && B == 0){                        //  St. lines with no equation.
         printf("\nEquation doesnot exist. Both are same point.");         
