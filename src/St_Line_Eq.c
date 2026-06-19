@@ -1,4 +1,4 @@
-   #include"St_Line_Equation.h"
+   #include"St_Line_Eq.h"
    #include"HCF.h"
    #include<stdio.h>
    #include<string.h>
