@@ -1,4 +1,5 @@
 #include"HCF.h"
+#include"St_Line_Equation.h"
 #include<stdio.h>
 
 int HCF(int X, int Y){            
