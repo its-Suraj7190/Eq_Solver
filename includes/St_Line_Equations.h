@@ -1,5 +1,5 @@
-#ifndef "ST_LINE_EQUATIONS"
-#define "ST_LINE_EQUATIONS"
+#ifndef "ST_LINE_EQUATION"
+#define "ST_LINE_EQUATION"
 if(A == 0 && B == 0){                        //  St. lines with no equation.
         printf("\nEquation doesnot exist. Both are same point.");         
         return 0;
