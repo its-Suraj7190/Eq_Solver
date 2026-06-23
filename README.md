@@ -45,7 +45,7 @@ EQ_Solver/
   - Improved mathematical functions
 
 9)  AUTHOR : 
-   - Suraj Rai**
+   - Suraj Rai
    - Intelligence Computing (Dong-Eui University, Busan, South Korea)
 
 10) LICENSE :
