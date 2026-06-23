@@ -21,9 +21,10 @@
 # 📂 Project Structure :
 ```text
 EQ_Solver/
-├── source_code.c
+├── includes.h
+├── source_code.h
 ├── README.md
-└── documentation/
+└── docs/
 ```
 
 # ⚙️ Build and Run :
