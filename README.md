@@ -1,4 +1,4 @@
-1) EQ SOLVER :
+# 📈 EQ Solver :
    A mathematical linear equation-solving application developed in C. 
    The project is designed to solve common algebraic equations while demonstrating the integration of mathematics and programming concepts.
 
