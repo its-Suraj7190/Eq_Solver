@@ -22,7 +22,7 @@
 ```text
 EQ_Solver/
 ├── includes.h
-├── source_code.h
+├── source_code.c
 ├── README.md
 └── docs/
 ```
