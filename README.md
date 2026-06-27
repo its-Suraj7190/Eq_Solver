@@ -48,5 +48,5 @@ EQ_Solver/
 # 👨‍💻 Author :
    - Suraj Rai
    - Intelligence Computing (Dong-Eui University, Busan, South Korea)
-# 📜 License
+# 📜 License :
 This project is released for educational and research purposes.
